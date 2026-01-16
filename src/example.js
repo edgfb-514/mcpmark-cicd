@@ -1,0 +1,1 @@
+const used = 'single quotes';\nconst missingSemi = 5;\n\nexport { used, missingSemi };
