@@ -1,3 +1,1 @@
-let unused = "double quotes";
-console.log("hello world")
-let missingSemi = 5
+const used = 'single quotes';\nconst missingSemi = 5;\n\nexport { used, missingSemi };
